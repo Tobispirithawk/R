@@ -1,0 +1,10 @@
+{
+  "name": "Plinko Battle",
+  "short_name": "Plinko Battle",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#171a3a",
+  "theme_color": "#171a3a",
+  "description": "Plinko Battle"
+}
